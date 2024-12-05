@@ -1,1 +1,0 @@
-# StanislawJanuszek.github.io
