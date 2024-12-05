@@ -92,5 +92,8 @@ article img {
 }
 
 .button:hover {
-    background-color: #b71c1c; 
+    background-color: #45a049;
+}
+ul{
+    list-style: none;
 }
